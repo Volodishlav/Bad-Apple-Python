@@ -5,7 +5,9 @@ This project reproduces the [Bad Apple!!](https://youtu.be/FtutLA63Cp8?si=_QNjj4
 ## Requirements
 
 - Python 3.13.x: [Python Downloads](https://www.python.org/downloads/)
-- Pygame. If you don't have pygame installed:
+- Pygame
+
+If you don't have pygame installed:
 
 1.- Create a virtual enviroment:
 ```bash
@@ -44,4 +46,6 @@ pygame.mixer.music.set_volume(0.25)  # 25%
 
 ## Credits
 
-The assets are not mine. Special thanks to [FelipeFMA](https://github.com/FelipeFMA/BadAppleBash) and [Trung-Kieen](https://github.com/Trung-Kieen/bad-apple-ascii) for the ASCII art.
+Special thanks to:
+- [FelipeFMA](https://github.com/FelipeFMA/BadAppleBash) and [Trung-Kieen](https://github.com/Trung-Kieen/bad-apple-ascii) for the ASCII art.
+- [Team Shanghai Alice](https://www16.big.or.jp/~zun/) and the [Touhou Project Community](https://en.touhouwiki.net/wiki/Touhou_Wiki) for existing.
