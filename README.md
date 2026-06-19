@@ -1,10 +1,10 @@
 # Bad Apple Python
 
-This project reproduces the ["Bad Apple!!"](https://youtu.be/FtutLA63Cp8?si=_QNjj4ybEjiaY_qa) video in your terminal using Python, with all graphics rendered in ASCII art.
+This project reproduces the [Bad Apple!!](https://youtu.be/FtutLA63Cp8?si=_QNjj4ybEjiaY_qa) video in your terminal using Python, with all graphics rendered in ASCII art.
 
 ## Requirements
 
-- Python 3.13.x: ["Python Downloads"](https://www.python.org/downloads/)
+- Python 3.13.x: [Python Downloads](https://www.python.org/downloads/)
 - Pygame. If you don't have pygame installed:
 
 1.- Create a virtual enviroment:
