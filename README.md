@@ -1,5 +1,7 @@
 # Bad Apple Python
 
+[](preview.gif)
+
 This project reproduces the [Bad Apple!!](https://youtu.be/FtutLA63Cp8?si=_QNjj4ybEjiaY_qa) video in your terminal using Python, with all graphics rendered in ASCII art.
 
 ## Requirements
