@@ -46,10 +46,11 @@ You can change **line 61** to asjust the volume of the song:
 pygame.mixer.music.set_volume(0.25)  # 25%
 ```
 
-Do you want the FLAC version? Download it here!
+Do you want the FLAC versions? You can find them here!
 
-[Bad Apple!! 10th Anniversary PHASE1](https://archive.org/details/bad-apple-10th-anniversary-phase1)
-[Bad Apple!! 10th Anniversary PHASE2](https://archive.org/details/bad-apple-10th-anniversary-phase2)
+> [Bad Apple!! 10th Anniversary PHASE1](https://archive.org/details/bad-apple-10th-anniversary-phase1)
+
+> [Bad Apple!! 10th Anniversary PHASE2](https://archive.org/details/bad-apple-10th-anniversary-phase2)
 
 ## Credits
 
